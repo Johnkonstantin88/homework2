@@ -1,0 +1,64 @@
+body {
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+.list {
+  list-style: none;  
+}
+
+
+
+/* text colors */
+
+/* body color  #434455;
+headers color #2E2F42;
+accent #404BBF;
+links #4D5AE5;
+white #FFFFFF;
+light mode backgrounds #F4F4FD;
+
+*/
+
+/* Headers links colors*/
+
+.logo {
+    color: #2E2F42;
+    
+}
+
+ .logo:hover,
+ .logo:focus {
+     color: #404BBF
+    }   
+
+.site-nav .links {
+    color: #2E2F42;
+}
+
+.auth-nav .links {
+    color: #434455;
+       }
+
+       .section-title {
+        color: #2E2F42;
+       }
+
+.button {
+    color: #4D5AE5;;
+}
+
+.footer-text {
+    color: #F4F4FD;
+}
+.accent {
+    color: #4D5AE5;
+}
+
+
+       /* hover/focus */
+
+.links:hover,
+.links:focus {
+    color: #404BBF;
+}
